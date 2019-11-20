@@ -1,15 +1,8 @@
 ﻿#############
 ## Idea
 #############
-target/
 .idea/
 .idea
-.repository/
-*.iml
-*.iws
-*.jrtc
-*.java
-*.info
 *.properties
 *.jar
 
