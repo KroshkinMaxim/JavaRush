@@ -13,7 +13,6 @@ target/
 *.properties
 *.jar
 
-
 /out/
 /JavaRushPlugin.properties
 /Instruction.png
